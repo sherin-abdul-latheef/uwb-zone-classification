@@ -1,0 +1,21 @@
+preprocessing,zone,precision,recall,f1,support
+1 — Raw (no weights),1,0.9892857142857143,0.9753521126760564,0.9822695035460993,284
+1 — Raw (no weights),2,0.9411764705882353,0.9890909090909091,0.9645390070921985,275
+1 — Raw (no weights),3,1.0,0.9555555555555556,0.9772727272727273,225
+1 — Raw (no weights),4,1.0,1.0,1.0,296
+2 — ZQCM (no weights),1,0.9892857142857143,0.9753521126760564,0.9822695035460993,284
+2 — ZQCM (no weights),2,0.9411764705882353,0.9890909090909091,0.9645390070921985,275
+2 — ZQCM (no weights),3,1.0,0.9555555555555556,0.9772727272727273,225
+2 — ZQCM (no weights),4,1.0,1.0,1.0,296
+3 — GQCM+Hermite (no weights),1,0.9929824561403509,0.9964788732394366,0.9947275922671354,284
+3 — GQCM+Hermite (no weights),2,0.9963503649635036,0.9927272727272727,0.994535519125683,275
+3 — GQCM+Hermite (no weights),3,1.0,1.0,1.0,225
+3 — GQCM+Hermite (no weights),4,1.0,1.0,1.0,296
+4 — NQCM (no weights),1,1.0,1.0,1.0,284
+4 — NQCM (no weights),2,1.0,1.0,1.0,275
+4 — NQCM (no weights),3,1.0,1.0,1.0,225
+4 — NQCM (no weights),4,1.0,1.0,1.0,296
+5 — NQCM (with weights) — full pipeline,1,1.0,1.0,1.0,284
+5 — NQCM (with weights) — full pipeline,2,1.0,1.0,1.0,275
+5 — NQCM (with weights) — full pipeline,3,1.0,1.0,1.0,225
+5 — NQCM (with weights) — full pipeline,4,1.0,1.0,1.0,296
